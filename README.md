@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello hello.
+
+I learning how to program and it's hard but it's fun! 
 
 <!--
 **Gurvas/Gurvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
